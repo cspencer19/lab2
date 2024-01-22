@@ -1,6 +1,6 @@
 FROM node:latest
 
-LABEL maintaiiner = "Isaac Messer <isaac.messer640@gmail.com>"
+LABEL maintaiiner = "Chase Spencer <chase.spencer19@gmail.com>"
 LABEL description = "This is a simple docker file to demonstate abilities"
 LABEL cohort = "cohort-16"
 
